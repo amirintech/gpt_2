@@ -1,0 +1,7 @@
+tiktoken
+torch 
+
+# ==== for macos ====
+torchvision
+torchaudio
+# ==== ==== ==== ==== 
